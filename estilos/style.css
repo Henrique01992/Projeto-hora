@@ -43,9 +43,7 @@ div > img {
 
 footer{
     text-align: center;
-    color: white;
-    background-color: rgba(113, 175, 255, 0.432);
-    width: 90px;
-    border-radius: 10px;
+    width: 60px;
+    border-radius: 30%;
     margin: auto;
 }
